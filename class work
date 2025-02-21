@@ -1,0 +1,8 @@
+List = [1,2,3,4,5]
+new = list(set(_list))
+
+print(new)
+# square= [1,4,9,16,25]
+
+ Square = [num * num for num is list]
+print(square)
